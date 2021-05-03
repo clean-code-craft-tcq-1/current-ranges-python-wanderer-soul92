@@ -41,7 +41,8 @@ Range, Readings
 
 Start test-driven development:
 
-1. Establish quality parameters for your project: What is the maximum complexity you would allow? How much duplication would you consider unacceptable? What is the coverage you'll aim for?
+1. Establish quality parameters for your project: What is the maximum complexity you would allow? CCN 5 
+2. How much duplication would you consider unacceptable? What is the coverage you'll aim for? NO Duplication
 Adapt/adopt/extend the `yml` files from one of your workflow folders.
 
 1. Write the smallest possible failing test.
@@ -52,5 +53,5 @@ Adapt/adopt/extend the `yml` files from one of your workflow folders.
 
 Implement one failing test and at least one passing test:
 
-- _enter the name of a **passing** test
-- _enter the name of a **failing** test
+- test_to_check_empty_input_pass the name of a **passing** test
+- test_failing_given_ranges the name of a **failing** test
