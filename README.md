@@ -52,5 +52,5 @@ Adapt/adopt/extend the `yml` files from one of your workflow folders.
 
 Implement one failing test and at least one passing test:
 
-- _enter the name of a **passing** test
-- _enter the name of a **failing** test
+- test_to_check_empty_input_pass the name of a **passing** test
+- test_failing_given_ranges the name of a **failing** test
